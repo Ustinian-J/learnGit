@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git track cchanges.
 Creating a new branch is quick and simple.
 Add some information.
+Study alias!
